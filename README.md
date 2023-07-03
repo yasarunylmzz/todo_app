@@ -1,16 +1,7 @@
 # todo_app
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1688402845](https://github.com/yasarunylmzz/todo_app/assets/116540999/4f8c16fa-4e86-489f-9e3a-926391cbabde)
+![Screenshot_1688402853](https://github.com/yasarunylmzz/todo_app/assets/116540999/6e083675-e087-4cf0-80f7-5943ccb77dc3)
+![Screenshot_1688402850](https://github.com/yasarunylmzz/todo_app/assets/116540999/a6593da5-672b-4ef7-9d88-cddfb4c31e51)
